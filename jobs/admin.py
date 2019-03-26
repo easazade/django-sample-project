@@ -1,6 +1,6 @@
 from django.contrib import admin
-from .models import job
+from .models import Job
 
 # Register your models here.
 # the purpose of this page is to include our models here so we can show it in admin page 
-admin.site.register(job)
+admin.site.register(Job)
