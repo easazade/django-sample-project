@@ -2,6 +2,8 @@
 # Created by https://www.gitignore.io/api/django,intellij
 # Edit at https://www.gitignore.io/?templates=django,intellij
 
+/.vscode/
+
 ### Django ###
 *.log
 *.pot
